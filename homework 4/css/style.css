@@ -1,0 +1,17 @@
+h2{
+	color: red;
+}
+.heading1{
+    background-color: yellow;
+}
+.border{
+	border: 5px dashed black;
+}
+#head1{
+	front-size: 100px;
+}
+.box{
+	width: 400px;
+	height: 100px;
+	background-color: rgba(05, 10, 08, .4);
+}
